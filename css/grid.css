@@ -1,0 +1,24 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.xs-1 {
+  width: 100%
+}
+
+
+.s-1 {
+  width:100%
+}
+
+@media only screen and (min-width: 3;)
+.m-1 {
+  width: 100%;
+}
+
+.m-1-2 {
+  width:50%;
+}
+
+}
